@@ -45,3 +45,6 @@ Documentation/build
 Documentation/doxygen_build
 
 xizvuaie.fcz.txt
+
+Support/Library/Debug-*/
+Support/Library/Release-*/
